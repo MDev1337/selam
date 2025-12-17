@@ -1,0 +1,19 @@
+{
+  "licenses": [
+    {
+      "key": "USER-1234-ABCD",
+      "hwid": "DESKTOP123-1A2B3C4D",
+      "status": "valid"
+    },
+    {
+      "key": "USER-AAAA-BBBB",
+      "hwid": "LAPTOP567-9F8E7D6C",
+      "status": "valid"
+    },
+    {
+      "key": "USER-BANNED-999",
+      "hwid": "SOMEPC-00000000",
+      "status": "banned"
+    }
+  ]
+}
